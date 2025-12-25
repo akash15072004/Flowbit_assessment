@@ -1,0 +1,8 @@
+{
+  "name": "flowbit-ai-agent",
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/demo/runDemo.js"
+  }
+}

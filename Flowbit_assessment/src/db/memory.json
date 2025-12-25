@@ -1,0 +1,13 @@
+{
+  "vendorMemory": [
+    {
+      "vendor": "Supplier GmbH",
+      "fieldMap": {
+        "Leistungsdatum": "serviceDate"
+      },
+      "confidence": 0.8
+    }
+  ],
+  "correctionMemory": [],
+  "resolutionMemory": []
+}
